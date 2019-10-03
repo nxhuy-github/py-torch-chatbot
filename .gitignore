@@ -1,3 +1,7 @@
+.ipynb_checkpoints
+_MACOSX
+**/cornell movie-dialogs corpus/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
